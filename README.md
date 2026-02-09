@@ -1,4 +1,3 @@
-<img width="1351" height="2048" alt="image" src="https://github.com/user-attachments/assets/a9d0c6c0-0104-44c8-b9ce-2aaa59ca6fe7" />🚦 Traffic Light Simulation
 
 A simple and interactive Traffic Light built using HTML, CSS, and JavaScript.
 Users can control the lights using buttons to switch between Red, Yellow, Green, or turn them Off.
